@@ -41,6 +41,11 @@ very well - until we hit that output boundary token window again. Most interesti
 point where an old IT generalist fart - can't take this further without some smarts. I'm really unhappy I can't make AI-Tape better. But I can
 only say that as is - 85% handover is - depending on what you are upto and you'd need to test for yourself - not a bad continuity over 0%.
 
+The candidates under 03 went through some tests. I do not claim better candidates could not be found or nominated. In fact I am sure that they exist
+and more can be found. The current batch are ones that had the best effects in testing, so are here as current candidates. I don't know if that words 
+hold up with different AI. We know 'recorder' carries across every single AI we tested against. So as AIs are trained against massive english base - 
+I susspect core words carry similar weight across models. 
+
 6.2 research file.. 
 Markdown
 ## AI TAPE
